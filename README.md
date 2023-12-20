@@ -6,6 +6,19 @@ This project aims to re-implement the Denoising Difussion Probabilistic Models (
 
 This repository contains 4 files and several folders, which are all essential for this project and can be seen as proof of implementation. Due to the nature of our cooperation, there are two implementations of DDPM, corresponding to each dataset, which will be written in separate jupyter notebooks.
 
+* DDPM_MNIST.ipynb: 
+
+    The main file for MNIST dataset, including model definition and training loop. 
+
+* FID_Calculation_MNIST.ipynb: 
+
+* DDPM_CIFAR.ipynb: 
+
+    The main file for MNIST dataset, including model definition and training loop. 
+
+* FID_Calculation_CIFAR.ipynb: 
+
+
 ## Members of this group
 
 * Shu-Han Chien, s222458
