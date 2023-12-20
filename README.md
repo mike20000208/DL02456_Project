@@ -12,11 +12,15 @@ This repository contains 4 files and several folders, which are all essential fo
 
 * FID_Calculation_MNIST.ipynb: 
 
+    The main file to calculate FID score for trained data (trained by DDPM_MNIST.ipynb) also includes generating a series of images for display. 
+
 * DDPM_CIFAR.ipynb: 
 
     The main file for MNIST dataset, including model definition and training loop. 
 
 * FID_Calculation_CIFAR.ipynb: 
+
+    The main file to calculate FID score for trained data (trained by DDPM_CIFAR.ipynb) also includes generating a series of images for display. 
 
 
 ## Members of this group
