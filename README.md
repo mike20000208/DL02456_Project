@@ -5,7 +5,7 @@ This project aims to re-implement the Denoising Difussion Probabilistic Models (
 
 ## Contents
 
-This repository contains 4 files and several folders, which are all essential for this project and can be seen as proof of implementation. Due to the nature of our cooperation, there are two implementations of DDPM, corresponding to each dataset, which will be written in separate jupyter notebooks.
+This repository contains 4 files, which are all essential for this project and can be seen as proof of implementation. Due to the nature of our cooperation, there are two implementations of DDPM, corresponding to each dataset, which will be written in separate jupyter notebooks.
 
 * DDPM_MNIST.ipynb: 
 
